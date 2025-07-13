@@ -1,0 +1,30 @@
+Leighton Beckley 07/13/2025
+
+/* Style for the entire table */
+table {
+  border: 2px solid #222;
+  margin: auto;
+  width: 80%;
+}
+
+/* Style for all table headers and data cells */
+th, td {
+  border: 2px solid #222;
+  padding: 0.5em;
+  text-align: center;
+}
+
+/* Style for movie titles specifically */
+.movie-title {
+  text-align: left;
+}
+
+/* Odd-numbered rows */
+tr:nth-child(odd) {
+  background-color: #f4e1d2;
+}
+
+/* Even-numbered rows */
+tr:nth-child(even) {
+  background-color: #c5dff8;
+}
