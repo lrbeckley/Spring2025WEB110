@@ -1,0 +1,39 @@
+Leighton Beckley 07/13/2025
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contact Us</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <h3>Contact Our Team</h3>
+
+  <p>Please complete the form below and we’ll get back to you as soon as possible.</p>
+
+  <form action="https://webdevbasics.net/scripts/demo.php" method="POST">
+    <label for="fullname">Full Name:</label><br />
+    <input type="text" id="fullname" name="fullname" required /><br /><br />
+
+    <label for="email">Email Address:</label><br />
+    <input type="email" id="email" name="email" required /><br /><br />
+
+    <label for="phone">Phone Number:</label><br />
+    <input type="tel" id="phone" name="phone" /><br /><br />
+
+    <label for="topic">Topic:</label><br />
+    <select id="topic" name="topic">
+      <option value="general">General Inquiry</option>
+      <option value="support">Support</option>
+      <option value="feedback">Feedback</option>
+    </select><br /><br />
+
+    <label for="message">Message:</label><br />
+    <textarea id="message" name="message" rows="5" required></textarea><br /><br />
+
+    <input type="submit" value="Send Message" />
+  </form>
+
+</body>
+</html>
