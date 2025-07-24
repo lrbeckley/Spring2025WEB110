@@ -1,0 +1,50 @@
+Leighton Beckley 07/24/2025
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How to Crochet - Home</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="wrapper">
+    <nav>
+      <ul class="top-nav">
+        <li><a href="final1.html">Home</a></li>
+        <li><a href="final2.html">Getting Started</a></li>
+        <li><a href="final3.html">Join Us</a></li>
+        <li><a href="final4.html">Credits</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <h1>Welcome to How to Crochet</h1>
+      <img src="images/crochet-home.jpg" alt="Colorful yarn and crochet hooks" class="responsive-img">
+      <p>Crocheting is a relaxing and rewarding craft that allows you to create beautiful, handmade pieces. Whether you're looking to make cozy scarves, stylish bags, or delicate doilies, our guide will walk you through every step of the process. This site is your beginner-friendly introduction to the world of crochet!</p>
+
+      <h2>Why Crochet?</h2>
+      <ul>
+        <li>Reduces stress and anxiety</li>
+        <li>Great creative outlet</li>
+        <li>Makes unique, personalized gifts</li>
+        <li>Inexpensive hobby</li>
+        <li>Easy to learn with practice</li>
+      </ul>
+
+      <p>Ready to get started? Head over to the <a href="final2.html">Getting Started</a> page for your first lesson.</p>
+      <p>Want to connect with other beginners? <a href="final3.html">Join Us</a> and become part of our crochet community.</p>
+      <p>Visit the <a href="final4.html">Credits</a> page to see the sources and helpful links we’ve used throughout the site.</p>
+    </main>
+
+    <footer>
+      <ul class="bottom-nav">
+        <li><a href="final1.html">Home</a></li>
+        <li><a href="final2.html">Getting Started</a></li>
+        <li><a href="final3.html">Join Us</a></li>
+        <li><a href="final4.html">Credits</a></li>
+      </ul>
+    </footer>
+  </div>
+</body>
+</html>
