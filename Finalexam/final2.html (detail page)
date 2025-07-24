@@ -1,0 +1,60 @@
+Leighton Beckley 07/24/2025
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Getting Started - How to Crochet</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="wrapper">
+    <nav>
+      <ul class="top-nav">
+        <li><a href="final1.html">Home</a></li>
+        <li><a href="final2.html">Getting Started</a></li>
+        <li><a href="final3.html">Join Us</a></li>
+        <li><a href="final4.html">Credits</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <h1>Getting Started with Crochet</h1>
+      <img src="images/crochet-tools.jpg" alt="Crochet hook and yarn" class="responsive-img">
+      <p>Learning to crochet starts with gathering the right tools and understanding some basic techniques. Follow this step-by-step guide to begin your crochet journey!</p>
+
+      <h2 id="tools">Tools You Need</h2>
+      <ul>
+        <li>Crochet hook (size H/8 is great for beginners)</li>
+        <li>Worsted weight yarn</li>
+        <li>Scissors</li>
+        <li>Yarn needle</li>
+        <li>Stitch markers (optional)</li>
+      </ul>
+
+      <h2>Basic Crochet Stitches</h2>
+      <ol>
+        <li>Slip Knot</li>
+        <li>Chain Stitch (ch)</li>
+        <li>Single Crochet (sc)</li>
+        <li>Double Crochet (dc)</li>
+        <li>Half Double Crochet (hdc)</li>
+      </ol>
+
+      <p>Practice these stitches to build your skills. Refer to tutorials or diagrams as needed. Once you’re confident, you can try making small projects like dishcloths or scarves.</p>
+
+      <p><a href="#tools">Jump to Tools List</a></p>
+      <p>Return to the <a href="final1.html">Home page</a> or proceed to <a href="final3.html">Join Us</a> to get involved.</p>
+    </main>
+
+    <footer>
+      <ul class="bottom-nav">
+        <li><a href="final1.html">Home</a></li>
+        <li><a href="final2.html">Getting Started</a></li>
+        <li><a href="final3.html">Join Us</a></li>
+        <li><a href="final4.html">Credits</a></li>
+      </ul>
+    </footer>
+  </div>
+</body>
+</html>
