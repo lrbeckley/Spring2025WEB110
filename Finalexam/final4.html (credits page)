@@ -1,0 +1,60 @@
+Leighton Beckley 07/24/2025
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Credits - How to Crochet</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="wrapper">
+    <nav>
+      <ul class="top-nav">
+        <li><a href="final1.html">Home</a></li>
+        <li><a href="final2.html">Getting Started</a></li>
+        <li><a href="final3.html">Join Us</a></li>
+        <li><a href="final4.html">Credits</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <h1>Credits & Resources</h1>
+      <p>This page provides credits and examples of link types used across this site.</p>
+
+      <h2>External Resources</h2>
+      <ul>
+        <li><a href="https://www.craftyarncouncil.com/">Craft Yarn Council</a> (crochet standards & patterns)</li>
+        <li><a href="https://www.youtube.com/@TL.YarnCrafts">TLYarnCrafts on YouTube</a> (video tutorials)</li>
+        <li><a href="https://pixabay.com/" target="_blank">Pixabay</a> (free images)</li>
+      </ul>
+
+      <h2>Email Link</h2>
+      <p>Email us with questions at <a href="mailto:info@crochetclub.com">info@crochetclub.com</a>.</p>
+
+      <h2>Internal Links</h2>
+      <ul>
+        <li><a href="final1.html">Home</a></li>
+        <li><a href="final2.html">Getting Started</a></li>
+        <li><a href="final3.html">Join Us</a></li>
+      </ul>
+
+      <h2>Fragment Identifier</h2>
+      <p>See the <a href="final2.html#tools">Tools You Need</a> section on the Getting Started page.</p>
+
+      <img src="images/crochet-credits.jpg" alt="Crochet granny square" class="responsive-img">
+
+      <p>Return to the <a href="final1.html">Home</a> page.</p>
+    </main>
+
+    <footer>
+      <ul class="bottom-nav">
+        <li><a href="final1.html">Home</a></li>
+        <li><a href="final2.html">Getting Started</a></li>
+        <li><a href="final3.html">Join Us</a></li>
+        <li><a href="final4.html">Credits</a></li>
+      </ul>
+    </footer>
+  </div>
+</body>
+</html>
